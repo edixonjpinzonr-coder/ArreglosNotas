@@ -53,6 +53,9 @@ public class Arreglos {
                         "\nNotas desaprovadas: "+"\n"+mostrarNotasD+"\n"+
                         "\nArreglo con metodo Burbuja: ");
 
+        System.out.println("hola, aqui cuenta secundaria1");
+
+
         //metodo para mostrar el arreglo burbuja
         for (int i = 0; i < notas.length; i++) {
             System.out.println(notas[i]);
